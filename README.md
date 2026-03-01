@@ -142,7 +142,7 @@ Optimized materialized views for analytics.
 # 🔄 Orchestration
 
 Entire pipeline runs through Databricks Workflows.
-![Architecture]
+![Architecture](images/End%20to%20End%20orchestration.png)
 
 ## Single job orchestration:
 
@@ -160,7 +160,7 @@ Fully automated and production-ready.
 
 
 ## 1️⃣ Restaurant Chain Performance Dashboard
-![Architecture]
+![Architecture](images/Master%20Dashboards%20Chain%20performance%20insight%20conv%200.jpeg)
 
 ### Filters:
 
@@ -184,7 +184,7 @@ Date Range (start_date, end_date)
 - Revenue by Food Category
 
 ## 2️⃣ Review Insights Dashboard
-![Architecture]
+![Architecture](images/Master%20Dashboards%20customer%20reviews%20conv%200.jpeg)
 
 ### Filter:
 
