@@ -22,6 +22,7 @@ This project demonstrates:
 
 ## 🏗️ Architecture Overview
 
+### High Level Architecture
 ![Architecture](https://github.com/Sharmaaditya22/Enterprise-Lakehouse-Architecture-on-Databricks/blob/b603dbfb896e56c7ba5577dd83b5719ac4979f8f/Images/Databrick_project_architecture.png)
 
 Cloud Stack:
