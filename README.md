@@ -22,7 +22,7 @@ This project demonstrates:
 
 ## 🏗️ Architecture Overview
 
-![Architecture](images/Databrick%20project%20architecture.png)
+![Architecture](images/Databrick_project_architecture.png)
 
 Cloud Stack:
 
