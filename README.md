@@ -142,7 +142,7 @@ Optimized materialized views for analytics.
 # 🔄 Orchestration
 
 Entire pipeline runs through Databricks Workflows.
-![Architecture](images/End_to_End_orchestration.png)
+![Architecture](https://github.com/Sharmaaditya22/Enterprise-Lakehouse-Architecture-on-Databricks/blob/9c99119bffef717755107e0e615e7726a1c21628/Images/End_to_End_orchestration.png)
 
 ## Single job orchestration:
 
@@ -160,7 +160,7 @@ Fully automated and production-ready.
 
 
 ## 1️⃣ Restaurant Chain Performance Dashboard
-![Architecture](images/Master_Dashboards_Chain_performance_insight.jpeg)
+![Architecture](https://github.com/Sharmaaditya22/Enterprise-Lakehouse-Architecture-on-Databricks/blob/9c99119bffef717755107e0e615e7726a1c21628/Images/Master_Dashboards_Chain_performance_insight.jpeg)
 
 ### Filters:
 
@@ -184,7 +184,7 @@ Date Range (start_date, end_date)
 - Revenue by Food Category
 
 ## 2️⃣ Review Insights Dashboard
-![Architecture](images/Master_Dashboards_customer_reviews.jpeg)
+![Architecture](https://github.com/Sharmaaditya22/Enterprise-Lakehouse-Architecture-on-Databricks/blob/9c99119bffef717755107e0e615e7726a1c21628/Images/Master_Dashboards_customer_reviews.jpeg)
 
 ### Filter:
 
