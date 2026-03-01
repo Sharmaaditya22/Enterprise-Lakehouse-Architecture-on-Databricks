@@ -1,0 +1,19 @@
+{
+  "name": "gw_ingestion_silver",
+  "catalog": "databrick_ws_dbproject",
+  "schema": "00_landing",
+  "gateway_definition": {
+    "connection_name": "restaurant_conn",
+    "gateway_storage_catalog": "databrick_ws_dbproject",
+    "gateway_storage_schema": "00_landing",
+    "gateway_storage_name": "gw_ingestion_silver"
+  },
+  "clusters": [
+    {
+      "label": "default",
+      "policy_id": "001FEDA92C227F42",
+      "apply_policy_default_values": true
+    }
+  ],
+  "continuous": true
+}
